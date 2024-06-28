@@ -14,6 +14,9 @@ The goal of this competition is to predict the probability of a region flooding 
   - <b>test set:</b> this is the test dataset that will be used for the final prediction after the model has been built
   - <b>sample submission set</b> This is an example of how the submission will look like 
 
+* Dataset link: https://www.kaggle.com/competitions/playground-series-s4e5
+
+
 ## Understanding the Dataset
 * MonsoonIntensity: This feature refers to the strength or vigor of the monsoon season, which is characterized by heavy rainfall and often associated with a shift in wind patterns.
 <br>
